@@ -47,7 +47,7 @@
     "@types/sinon-chai": "^3.2.5",
     "abi-decoder": "^2.3.0",
     "async-mutex": "^0.4.0",
-    "axios": "^0.27.2",
+    "axios": "^1.7.6",
     "bn.js": "^5.2.1",
     "body-parser": "^1.20.0",
     "chai": "^4.2.0",
@@ -67,7 +67,7 @@
     "web3-core": "^1.7.4",
     "web3-eth-accounts": "^1.7.4",
     "web3-eth-contract": "^1.7.4",
-    "web3-utils": "^1.7.4",
+    "web3-utils": "^4.3.1",
     "winston": "^3.8.1"
   }
 }
